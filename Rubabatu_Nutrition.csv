@@ -1,0 +1,148 @@
+Timestamp,Timestamp,Region,Age_Range,Gender,Education_Level,Monthly_Income,weight(Kg),Height(m),Rainy_Season,Dry_Season,Body_Exercise,Diseases,BMI
+12/15/2024 18:28:04,12/15/2024 18:28:04,Ashanti Region,20-25,Male,Tertiary,560.0,67.0,2.0,Carbohydrates,Protein,Yes,Anemia,16.75
+12/15/2024 18:45:00,12/15/2024 18:45:00,Bono East Region,20-25,Male,Tertiary,2000.0,80.0,1.4,Carbohydrates,Carbohydrates,Yes,Obesity,40.816
+12/15/2024 19:40:47,12/15/2024 19:40:47,Upper east Region,20-25,Male,Tertiary,1333.33,56.0,1.7,Carbohydrates,Vitamin,Yes,Kwashiorkor,19.377
+12/15/2024 19:53:18,12/15/2024 19:53:18,Upper east Region,20-25,Male,Tertiary,1000.0,67.0,1.9,Carbohydrates,Protein,Yes,None,18.56
+12/15/2024 20:02:32,12/15/2024 20:02:32,Ahafo Region,20-25,Male,Tertiary,700.0,57.0,1.7,Carbohydrates,Protein,Yes,Obesity,19.723
+12/15/2024 20:05:26,12/15/2024 20:05:26,Northen Region,20-25,Male,Tertiary,500.0,70.0,1.88,Carbohydrates,Carbohydrates,Yes,Anemia,19.805
+12/15/2024 20:06:57,12/15/2024 20:06:57,Northen Region,15-20,Male,Tertiary,10.0,30.0,1.6,Vitamin,Protein,Yes,Malaria ,11.719
+12/15/2024 20:16:51,12/15/2024 20:16:51,Upper east Region,20-25,Male,High School,1500.0,51.0,1.7,Carbohydrates,Protein,Yes,Malaria,17.647
+12/15/2024 20:20:02,12/15/2024 20:20:02,Northen Region,20-25,Male,Tertiary,0.0,30.0,1.4,Carbohydrates,Vitamin,Yes,malaria ,15.306
+12/15/2024 20:21:26,12/15/2024 20:21:26,Ashanti Region,15-20,Male,High School,350.0,62.0,1.6,Carbohydrates,Carbohydrates,No,Scurvy,24.219
+12/15/2024 20:36:25,12/15/2024 20:36:25,Bono Region,20-25,Male,Tertiary,2000.0,79.0,1.72,Protein,Carbohydrates,Yes,Beriberi,26.704
+12/15/2024 20:36:33,12/15/2024 20:36:33,Ashanti Region,35-40,Female,Tertiary,2000.0,59.0,1.56,Carbohydrates,Vitamin,Yes,Anemia,24.244
+12/15/2024 20:38:38,12/15/2024 20:38:38,Ashanti Region,25-30,Male,Tertiary,3000.0,50.0,1.7,Carbohydrates,Minerals,No,Anemia,17.301
+12/15/2024 20:58:22,12/15/2024 20:58:22,Bono Region,20-25,Female,Tertiary,4500.0,80.0,1.7,Protein,Minerals,Yes,Diabetes ,27.682
+12/15/2024 21:04:40,12/15/2024 21:04:40,Ashanti Region,15-20,Female,Tertiary,3000.0,46.0,1.7,Protein,Minerals,Yes,Asthma ,15.917
+12/15/2024 21:04:54,12/15/2024 21:04:54,Ashanti Region,15-20,Female,Tertiary,3000.0,46.0,1.7,Protein,Minerals,Yes,Asthma ,15.917
+12/15/2024 21:05:54,12/15/2024 21:05:54,Northen Region,15-20,Female,Tertiary,2133.33,52.0,1.7,Carbohydrates,Carbohydrates,No,None,17.993
+12/15/2024 21:10:59,12/15/2024 21:10:59,Northen Region,20-25,Male,Tertiary,1266.67,54.0,1.7,Carbohydrates,Carbohydrates,Yes,Obesity,18.685
+12/15/2024 21:24:39,12/15/2024 21:24:39,Upper West Region,20-25,Male,Tertiary,400.0,60.0,1.7,Protein,Carbohydrates,Yes,None,20.761
+12/15/2024 22:02:43,12/15/2024 22:02:43,Oti Region,20-25,Male,Tertiary,450.0,65.0,1.75,Protein,Carbohydrates,Yes,None,21.224
+12/15/2024 22:22:44,12/15/2024 22:22:44,Northen Region,20-25,Male,Tertiary,2000.0,54.0,1.57,Carbohydrates,Protein,Yes,Obesity,21.908
+12/16/2024 0:08:29,12/16/2024 0:08:29,Greater Accra Region,15-20,Male,Tertiary,2000.0,59.0,1.7,Carbohydrates,Carbohydrates,No,None,20.415
+12/16/2024 2:08:09,12/16/2024 2:08:09,Upper east Region,20-25,Female,Tertiary,50.0,54.0,1.61,Protein,Carbohydrates,Yes,Asthma ,20.833
+12/16/2024 6:20:56,12/16/2024 6:20:56,Ashanti Region,25-30,Male,High School,50.0,77.0,1.7,Protein,Protein,Yes,Beriberi,26.644
+12/16/2024 6:39:48,12/16/2024 6:39:48,Central Region,15-20,Male,Tertiary,250.0,65.0,1.7,Carbohydrates,Carbohydrates,Yes,Peptic ulcer,22.491
+12/16/2024 6:39:52,12/16/2024 6:39:52,Ashanti Region,20-25,Male,High School,400.0,54.0,1.7,Protein,Carbohydrates,Yes,None,18.685
+12/16/2024 7:09:25,12/16/2024 7:09:25,Northen Region,20-25,Male,Tertiary,0.0,60.0,1.7,Carbohydrates,Carbohydrates,No,Scurvy,20.761
+12/16/2024 7:10:14,12/16/2024 7:10:14,Northen Region,20-25,Male,Tertiary,0.0,62.0,1.7,Carbohydrates,Carbohydrates,Yes,None,21.453
+12/16/2024 7:17:54,12/16/2024 7:17:54,Ashanti Region,15-20,Male,High School,150.0,54.0,1.7,Carbohydrates,Protein,No,diabetes ,18.685
+12/16/2024 7:19:31,12/16/2024 7:19:31,Upper east Region,20-25,Male,High School,300.0,40.0,1.7,Carbohydrates,Carbohydrates,No,Scurvy,13.841
+12/16/2024 7:22:18,12/16/2024 7:22:18,Central Region,15-20,Male,Tertiary,0.0,65.0,1.89,Carbohydrates,Carbohydrates,Yes,None,18.197
+12/16/2024 7:29:55,12/16/2024 7:29:55,Northen Region,15-20,Male,High School,300.0,64.0,1.8,Carbohydrates,Carbohydrates,Yes,Malaria ,19.753
+12/16/2024 8:03:15,12/16/2024 8:03:15,Upper east Region,15-20,Female,High School,154.5,75.0,1.7,Protein,Carbohydrates,No,Anemia,25.952
+12/16/2024 8:10:49,12/16/2024 8:10:49,Easten Region,15-20,Male,Tertiary,9.0,55.0,1.65,Carbohydrates,Carbohydrates,No,Diabetes ,20.202
+12/16/2024 8:46:38,12/16/2024 8:46:38,Ashanti Region,20-25,Male,Tertiary,11.75,65.0,1.92,Carbohydrates,Carbohydrates,Yes,None,17.632
+12/16/2024 8:53:11,12/16/2024 8:53:11,Northen Region,20-25,Male,Tertiary,14.5,53.0,1.4,Carbohydrates,Carbohydrates,Yes,Scurvy,27.041
+12/16/2024 9:24:05,12/16/2024 9:24:05,Upper east Region,25-30,Male,Tertiary,17.25,60.0,1.7,Carbohydrates,Protein,No,Anemia,20.761
+12/16/2024 9:26:13,12/16/2024 9:26:13,Upper east Region,25-30,Male,Tertiary,20.0,60.0,1.7,Carbohydrates,Protein,No,Anemia,20.761
+12/16/2024 9:44:34,12/16/2024 9:44:34,Central Region,15-20,Male,Tertiary,0.0,57.0,1.7,Carbohydrates,Protein,No,Malaria,19.723
+12/16/2024 9:56:48,12/16/2024 9:56:48,Upper east Region,25-30,Male,Tertiary,4500.0,65.0,1.56,Carbohydrates,Carbohydrates,Yes,Obesity,26.709
+12/16/2024 10:03:09,12/16/2024 10:03:09,Ashanti Region,15-20,Female,High School,0.0,52.0,1.52,Protein,Carbohydrates,Yes,Anemia,22.507
+12/16/2024 10:06:42,12/16/2024 10:06:42,Northen Region,30-35,Male,Basic School,550.0,68.0,1.7,Carbohydrates,Carbohydrates,Yes,Diabetes ,23.529
+12/16/2024 10:11:26,12/16/2024 10:11:26,Greater Accra Region,15-20,Male,Tertiary,2000.0,67.0,1.7,Protein,Carbohydrates,Yes,Scurvy,23.183
+12/16/2024 10:22:03,12/16/2024 10:22:03,Ashanti Region,20-25,Male,High School,1000.0,58.0,1.7,Fats,Carbohydrates,Yes,Scurvy,20.069
+12/16/2024 10:57:56,12/16/2024 10:57:56,Ashanti Region,15-20,Female,Tertiary,0.0,50.0,1.7,Carbohydrates,Carbohydrates,No,Hypertension,17.301
+12/16/2024 11:05:05,12/16/2024 11:05:05,Central Region,20-25,Male,Tertiary,500.0,58.0,1.7,Carbohydrates,Carbohydrates,No,None,20.069
+12/16/2024 11:13:10,12/16/2024 11:13:10,Upper east Region,20-25,Female,Tertiary,250.0,50.0,1.7,Fiber,Carbohydrates,Yes,Malaria ,17.301
+12/16/2024 11:34:40,12/16/2024 11:34:40,Northen Region,20-25,Female,Tertiary,0.0,54.0,1.7,Carbohydrates,Carbohydrates,No,Malaria,18.685
+12/16/2024 11:34:53,12/16/2024 11:34:53,Upper east Region,25-30,Male,Tertiary,715.0,65.0,1.7,Carbohydrates,Carbohydrates,Yes,Anemia,22.491
+12/16/2024 11:42:46,12/16/2024 11:42:46,Ashanti Region,20-25,Male,Tertiary,372.5,70.0,1.7,Carbohydrates,Protein,Yes,None,24.221
+12/16/2024 12:57:25,12/16/2024 12:57:25,Upper east Region,20-25,Male,Tertiary,30.0,45.0,1.7,Vitamin,Carbohydrates,Yes,Malaria ,15.571
+12/16/2024 13:33:19,12/16/2024 13:33:19,Northen Region,15-20,Male,Tertiary,65.0,59.0,1.7,Carbohydrates,Fiber,No,Scurvy,20.415
+12/16/2024 13:53:40,12/16/2024 13:53:40,Ashanti Region,20-25,Female,Tertiary,100.0,62.0,1.7,Carbohydrates,Protein,No,Cold and headache ,21.453
+12/16/2024 14:16:01,12/16/2024 14:16:01,Western Region,25-30,Male,Tertiary,2000.0,70.0,1.5,Protein,Carbohydrates,Yes,Scurvy,31.111
+12/16/2024 14:16:11,12/16/2024 14:16:11,Western Region,25-30,Male,Tertiary,2000.0,70.0,1.5,Protein,Carbohydrates,Yes,Scurvy,31.111
+12/16/2024 16:06:19,12/16/2024 16:06:19,Bono East Region,15-20,Female,Tertiary,1000.0,55.0,1.7,Carbohydrates,Carbohydrates,Yes,Anemia,19.031
+12/16/2024 16:07:32,12/16/2024 16:07:32,Central Region,15-20,Female,Tertiary,500.0,55.0,2.0,Carbohydrates,Carbohydrates,Yes,None,13.75
+12/16/2024 16:52:46,12/16/2024 16:52:46,Western Region,15-20,Male,Tertiary,0.0,60.0,1.7,Carbohydrates,Carbohydrates,Yes,None,20.761
+12/16/2024 17:31:24,12/16/2024 17:31:24,Upper east Region,20-25,Female,Tertiary,500.0,48.0,1.7,Carbohydrates,Protein,No,Scurvy,16.609
+12/16/2024 17:33:23,12/16/2024 17:33:23,Upper West Region,15-20,Male,Tertiary,0.0,40.0,2.0,Protein,Fats,Yes,Kwashiorkor,10.0
+12/16/2024 18:13:52,12/16/2024 18:13:52,Upper east Region,25-30,Female,Tertiary,0.0,67.0,1.7,Vitamin,Carbohydrates,No,Malaria ,23.183
+12/16/2024 18:32:17,12/16/2024 18:32:17,Northen Region,20-25,Male,Tertiary,250.0,80.0,1.7,Carbohydrates,Carbohydrates,No,Muscle cramps ,27.682
+12/16/2024 18:36:43,12/16/2024 18:36:43,Northen Region,25-30,Female,Tertiary,500.0,90.0,1.7,Carbohydrates,Protein,Yes,Diabeties ,31.142
+12/16/2024 18:37:09,12/16/2024 18:37:09,Northen Region,20-25,Male,Tertiary,4000.0,68.0,1.73,Protein,Carbohydrates,Yes,Anemia,22.72
+12/16/2024 18:47:06,12/16/2024 18:47:06,Upper east Region,20-25,Male,Tertiary,2933.33,64.0,1.7,Protein,Carbohydrates,Yes,Obesity,22.145
+12/16/2024 19:16:00,12/16/2024 19:16:00,Ashanti Region,20-25,Male,High School,1866.67,70.0,1.6,Carbohydrates,Protein,Yes,Obesity,27.344
+12/16/2024 20:05:31,12/16/2024 20:05:31,Ahafo Region,20-25,Female,High School,800.0,52.0,1.7,Vitamin,Protein,No,Rickets,17.993
+12/16/2024 20:14:42,12/16/2024 20:14:42,Northen Region,20-25,Male,Tertiary,0.0,44.0,1.7,Protein,Carbohydrates,No,Marasmus,15.225
+12/16/2024 20:37:58,12/16/2024 20:37:58,Northen Region,20-25,Female,Tertiary,133.33,60.0,1.6,Carbohydrates,Carbohydrates,Yes,None,23.437
+12/16/2024 21:22:43,12/16/2024 21:22:43,Upper east Region,15-20,Female,Tertiary,266.67,64.0,1.55,Carbohydrates,Carbohydrates,No,Constipation ,26.639
+12/16/2024 21:24:16,12/16/2024 21:24:16,Upper east Region,20-25,Female,Tertiary,400.0,62.0,1.7,Vitamin,Protein,Yes,None,21.453
+12/16/2024 21:26:11,12/16/2024 21:26:11,Ashanti Region,15-20,Male,Tertiary,300.0,50.0,1.7,Minerals,Carbohydrates,Yes,None,17.301
+12/16/2024 21:32:41,12/16/2024 21:32:41,Northen Region,20-25,Female,Tertiary,715.0,55.0,1.63,Carbohydrates,Carbohydrates,Yes,Diabetes ,20.701
+12/16/2024 22:57:10,12/16/2024 22:57:10,Greater Accra Region,15-20,Female,Tertiary,500.0,52.0,1.7,Carbohydrates,Protein,No,None,17.993
+12/17/2024 0:32:24,12/17/2024 0:32:24,Savannah Region,20-25,Male,Tertiary,100.0,65.0,1.7,Carbohydrates,Carbohydrates,Yes,None,22.491
+12/17/2024 0:36:56,12/17/2024 0:36:56,Upper east Region,20-25,Male,Tertiary,0.0,67.0,2.0,Vitamin,Carbohydrates,No,Obesity,16.75
+12/17/2024 0:44:13,12/17/2024 0:44:13,Northen Region,20-25,Male,Tertiary,200.0,52.0,1.6,Fiber,Protein,No,None,20.312
+12/17/2024 3:38:39,12/17/2024 3:38:39,Ashanti Region,30-35,Male,Tertiary,1500.0,65.0,1.87,Carbohydrates,Carbohydrates,Yes,None,18.588
+12/17/2024 6:08:27,12/17/2024 6:08:27,Upper east Region,30-35,Male,Tertiary,3000.0,45.0,1.7,Carbohydrates,Carbohydrates,No,Kwashiorkor,15.571
+12/17/2024 8:25:39,12/17/2024 8:25:39,Upper east Region,20-25,Male,Tertiary,3000.0,56.0,1.7,Vitamin,Carbohydrates,Yes,Kwashiorkor,19.377
+12/17/2024 8:26:21,12/17/2024 8:26:21,Upper east Region,30-35,Male,Tertiary,3000.0,49.0,1.7,Fats,Protein,Yes,Stomach ulcer ,16.955
+12/17/2024 9:06:19,12/17/2024 9:06:19,Northen Region,20-25,Male,Tertiary,3000.0,72.0,1.82,Carbohydrates,Carbohydrates,No,Ulcer,21.737
+12/17/2024 9:15:37,12/17/2024 9:15:37,Northen Region,15-20,Male,Tertiary,0.0,61.0,1.7,Protein,Carbohydrates,No,Stomach pain ( ulcer),21.107
+12/17/2024 9:41:53,12/17/2024 9:41:53,Volta Region,25-30,Male,Tertiary,200.0,48.0,1.7,Carbohydrates,Carbohydrates,Yes,None,16.609
+12/17/2024 11:55:43,12/17/2024 11:55:43,Savannah Region,25-30,Male,Tertiary,275.0,47.0,1.5,Carbohydrates,Carbohydrates,Yes,Obesity,20.889
+12/17/2024 17:04:46,12/17/2024 17:04:46,Greater Accra Region,20-25,Male,Tertiary,350.0,70.0,1.83,Carbohydrates,Carbohydrates,No,None,20.902
+12/17/2024 18:09:23,12/17/2024 18:09:23,Ashanti Region,20-25,Female,Tertiary,425.0,54.0,1.7,Carbohydrates,Protein,Yes,Obesity,18.685
+12/17/2024 18:41:35,12/17/2024 18:41:35,Northen Region,25-30,Female,Tertiary,500.0,55.0,1.53,Carbohydrates,Carbohydrates,Yes,Hypertension ,23.495
+12/17/2024 19:21:21,12/17/2024 19:21:21,Ashanti Region,20-25,Female,Tertiary,1000.0,60.0,1.7,Carbohydrates,Protein,Yes,Beriberi,20.761
+12/17/2024 19:28:40,12/17/2024 19:28:40,Upper east Region,20-25,Male,Tertiary,1500.0,34.0,1.7,Vitamin,Carbohydrates,Yes,Malaria ,11.765
+12/17/2024 19:49:03,12/17/2024 19:49:03,Ashanti Region,20-25,Male,High School,2000.0,60.0,1.7,Protein,Carbohydrates,Yes,Scurvy,20.761
+12/18/2024 10:21:34,12/18/2024 10:21:34,Greater Accra Region,20-25,Male,Tertiary,3500.0,70.0,1.85,Carbohydrates,Carbohydrates,No,None,20.453
+12/18/2024 10:44:01,12/18/2024 10:44:01,Greater Accra Region,15-20,Female,Tertiary,2050.0,42.0,1.65,Carbohydrates,Protein,Yes,Anemia,15.427
+12/19/2024 16:14:48,12/19/2024 16:14:48,Ashanti Region,15-20,Female,Tertiary,325.0,68.0,1.7,Protein,Carbohydrates,Yes,Hypertension ,23.529
+12/19/2024 17:02:26,12/19/2024 17:02:26,Upper east Region,20-25,Male,Tertiary,50.0,72.0,2.0,Carbohydrates,Protein,Yes,Malaria ,18.0
+12/19/2024 19:01:37,12/19/2024 19:01:37,Western Region,20-25,Male,Tertiary,16.67,52.0,1.58,Carbohydrates,Protein,Yes,Anemia,20.83
+12/19/2024 19:55:28,12/19/2024 19:55:28,Upper east Region,25-30,Male,Tertiary,800.0,60.0,1.7,Carbohydrates,Protein,Yes,Beriberi,20.761
+12/19/2024 20:05:28,12/19/2024 20:05:28,Bono Region,20-25,Male,Tertiary,550.0,60.0,1.7,Protein,Protein,Yes,None,20.761
+12/19/2024 20:15:37,12/19/2024 20:15:37,Ashanti Region,15-20,Female,High School,300.0,50.0,1.7,Carbohydrates,Carbohydrates,No,Beriberi,17.301
+12/19/2024 20:59:02,12/19/2024 20:59:02,Upper east Region,20-25,Female,Tertiary,200.0,60.0,1.7,Carbohydrates,Carbohydrates,Yes,Anemia,20.761
+12/19/2024 21:11:02,12/19/2024 21:11:02,Upper east Region,20-25,Female,Tertiary,100.0,65.0,1.7,Carbohydrates,Protein,No,None,22.491
+12/19/2024 21:33:28,12/19/2024 21:33:28,Ashanti Region,15-20,Female,Tertiary,400.0,55.0,1.7,Protein,Carbohydrates,No,Scurvy,19.031
+12/19/2024 21:43:31,12/19/2024 21:43:31,North East Region,15-20,Female,Tertiary,200.0,60.0,1.7,Vitamin,Protein,No,Anemia,20.761
+12/20/2024 0:35:50,12/20/2024 0:35:50,Ashanti Region,15-20,Male,Tertiary,0.0,70.0,1.7,Carbohydrates,Protein,Yes,None,24.221
+12/20/2024 4:20:57,12/20/2024 4:20:57,Ashanti Region,20-25,Male,High School,1.0,50.0,1.7,Carbohydrates,Carbohydrates,Yes,None,17.301
+12/20/2024 5:57:18,12/20/2024 5:57:18,Ashanti Region,20-25,Female,Tertiary,167.33,65.0,1.7,Carbohydrates,Carbohydrates,No,None,22.491
+12/20/2024 6:15:51,12/20/2024 6:15:51,Northen Region,20-25,Male,Tertiary,333.67,50.0,1.8,Carbohydrates,Carbohydrates,Yes,Weight loss,15.432
+12/20/2024 6:33:39,12/20/2024 6:33:39,Upper West Region,25-30,Male,Tertiary,500.0,60.0,1.7,Carbohydrates,Carbohydrates,No,None,20.761
+12/20/2024 9:09:14,12/20/2024 9:09:14,Ashanti Region,20-25,Male,High School,1166.67,69.0,1.7,Minerals,Protein,No,Obesity,23.875
+12/20/2024 9:22:44,12/20/2024 9:22:44,Ashanti Region,20-25,Male,High School,833.33,58.0,1.7,Protein,Carbohydrates,Yes,None,20.069
+12/20/2024 13:32:44,12/20/2024 13:32:44,Greater Accra Region,15-20,Male,Tertiary,4000.0,62.0,1.73,Protein,Carbohydrates,Yes,Anemia,20.716
+12/20/2024 13:47:29,12/20/2024 13:47:29,Upper east Region,20-25,Female,Tertiary,3000.0,76.0,1.5,Carbohydrates,Protein,No,Obesity,33.778
+12/20/2024 13:57:39,12/20/2024 13:57:39,Upper east Region,20-25,Female,Tertiary,2000.0,60.0,1.7,Carbohydrates,Carbohydrates,No,Malaria,20.761
+12/20/2024 14:30:00,12/20/2024 14:30:00,Greater Accra Region,15-20,Female,Tertiary,1000.0,51.0,1.56,Carbohydrates,Protein,No,None,20.957
+12/20/2024 15:15:16,12/20/2024 15:15:16,Bono Region,10-15,Male,High School,0.0,55.0,1.65,Carbohydrates,Carbohydrates,No,Headache ,20.202
+12/20/2024 15:20:47,12/20/2024 15:20:47,Ashanti Region,25-30,Female,Tertiary,0.0,67.0,1.7,Fiber,Carbohydrates,No,Malaria ,23.183
+12/20/2024 15:23:14,12/20/2024 15:23:14,Bono Region,20-25,Female,Tertiary,2000.0,70.0,1.7,Protein,Vitamin,Yes,Anemia,24.221
+12/20/2024 15:56:10,12/20/2024 15:56:10,Ashanti Region,20-25,Male,Tertiary,500.0,62.0,1.7,Carbohydrates,Fats,No,Obesity,21.453
+12/20/2024 16:15:33,12/20/2024 16:15:33,Ashanti Region,20-25,Male,Tertiary,1000.0,45.0,1.7,Carbohydrates,Fiber,Yes,Scurvy,15.571
+12/20/2024 16:34:19,12/20/2024 16:34:19,Easten Region,15-20,Female,Tertiary,650.0,85.0,1.7,Carbohydrates,Carbohydrates,No,Obesity,29.412
+12/20/2024 17:07:08,12/20/2024 17:07:08,Ashanti Region,20-25,Male,High School,300.0,45.0,1.9,Carbohydrates,Protein,Yes,Scurvy,12.465
+12/20/2024 18:02:48,12/20/2024 18:02:48,Ashanti Region,15-20,Male,High School,1000.0,55.0,1.7,Protein,Carbohydrates,No,Diabetes ,19.031
+12/20/2024 18:22:39,12/20/2024 18:22:39,Greater Accra Region,15-20,Female,High School,500.0,60.0,1.7,Carbohydrates,Carbohydrates,No,Body weakness ,20.761
+12/20/2024 18:24:56,12/20/2024 18:24:56,Greater Accra Region,15-20,Female,Basic School,0.0,60.0,1.7,Carbohydrates,Carbohydrates,No,Obesity,20.761
+12/20/2024 19:03:30,12/20/2024 19:03:30,Ashanti Region,10-15,Male,High School,500.0,50.0,1.9,Vitamin,Carbohydrates,Yes,None,13.85
+12/20/2024 19:40:49,12/20/2024 19:40:49,Ashanti Region,15-20,Male,High School,1000.0,56.0,1.5,Carbohydrates,Carbohydrates,Yes,Anemia,24.889
+12/20/2024 19:42:30,12/20/2024 19:42:30,Greater Accra Region,15-20,Female,High School,866.67,34.0,1.7,Vitamin,Carbohydrates,Yes,None,11.765
+12/20/2024 19:43:10,12/20/2024 19:43:10,Upper West Region,15-20,Male,High School,733.33,40.0,1.7,Vitamin,Carbohydrates,Yes,None,13.841
+12/20/2024 19:43:55,12/20/2024 19:43:55,Easten Region,15-20,Male,Tertiary,600.0,36.0,1.7,Vitamin,Carbohydrates,Yes,None,12.457
+12/20/2024 19:44:32,12/20/2024 19:44:32,Central Region,15-20,Female,High School,466.67,60.0,1.7,Carbohydrates,Vitamin,Yes,None,20.761
+12/20/2024 19:45:12,12/20/2024 19:45:12,North East Region,25-30,Female,Tertiary,333.33,68.0,1.7,Vitamin,Protein,Yes,None,23.529
+12/20/2024 19:55:00,12/20/2024 19:55:00,Upper east Region,15-20,Female,Tertiary,200.0,55.0,1.7,Fiber,Carbohydrates,No,Stomach ache,19.031
+12/20/2024 21:36:07,12/20/2024 21:36:07,Greater Accra Region,15-20,Male,Tertiary,1200.0,60.0,1.5,Protein,Protein,Yes,Obesity,26.667
+12/21/2024 23:35:34,12/21/2024 23:35:34,Northen Region,20-25,Male,Tertiary,500.0,91.0,1.7,Carbohydrates,Carbohydrates,Yes,Beriberi,31.488
+12/21/2024 23:35:57,12/21/2024 23:35:57,Western North Region,20-25,Male,Tertiary,5000.0,65.0,1.7,Protein,Carbohydrates,Yes,None,22.491
+12/21/2024 23:55:45,12/21/2024 23:55:45,Northen Region,20-25,Female,Tertiary,0.0,79.0,1.6,Carbohydrates,Protein,Yes,Obesity,30.859
+12/22/2024 4:05:12,12/22/2024 4:05:12,Northen Region,20-25,Male,Tertiary,1000.0,50.0,1.7,Protein,Minerals,Yes,Anemia,17.301
+12/22/2024 5:04:21,12/22/2024 5:04:21,Upper West Region,30-35,Male,Tertiary,2000.0,81.0,1.7,Carbohydrates,Carbohydrates,Yes,Anemia,28.028
+12/22/2024 10:08:59,12/22/2024 10:08:59,Central Region,15-20,Female,Tertiary,2000.0,65.0,1.63,Carbohydrates,Carbohydrates,Yes,None,24.465
+12/22/2024 11:22:53,12/22/2024 11:22:53,Northen Region,20-25,Male,Tertiary,500.0,54.0,1.7,Carbohydrates,Carbohydrates,No,Night blindness ,18.685
+12/22/2024 12:11:36,12/22/2024 12:11:36,Greater Accra Region,20-25,Male,Tertiary,380.0,85.0,1.88,Protein,Protein,Yes,None,24.049
+12/22/2024 18:21:41,12/22/2024 18:21:41,Ashanti Region,15-20,Female,High School,260.0,62.0,1.7,Protein,Carbohydrates,Yes,Obesity,21.453
+12/22/2024 18:26:06,12/22/2024 18:26:06,Ashanti Region,15-20,Female,High School,140.0,62.0,1.7,Protein,Vitamin,Yes,Obesity,21.453
+12/23/2024 7:52:43,12/23/2024 7:52:43,Upper east Region,20-25,Male,Tertiary,20.0,64.0,1.7,Carbohydrates,Vitamin,Yes,Anemia,22.145
+12/23/2024 18:36:05,12/23/2024 18:36:05,Northen Region,15-20,Male,Tertiary,20.0,55.0,1.7,Protein,Carbohydrates,Yes,None,19.031
+12/25/2024 8:33:56,12/25/2024 8:33:56,Bono East Region,15-20,Female,Tertiary,20.0,58.0,1.6,Carbohydrates,Carbohydrates,No,None,22.656
+12/26/2024 5:36:07,12/26/2024 5:36:07,Greater Accra Region,20-25,Male,High School,20.0,56.0,1.7,Carbohydrates,Carbohydrates,Yes,None,19.377
